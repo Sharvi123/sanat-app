@@ -1,2 +1,2 @@
-# sanat-app
+# santa-app
 santa app
